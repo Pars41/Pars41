@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pars41&theme=dark&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pars41&theme=dark&border_radius=10)](https://git.io/streak-stats)<br>
 ![](https://komarev.com/ghpvc/?username=your-github-Pars41)

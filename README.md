@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on JavaScript  
+- 🔭 I’m currently working on REACT  
 - 🌱 I’m currently learning JS Statements 
 
 <!--

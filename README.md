@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on REACT  
-- 🌱 I’m currently learning JS Statements 
+- 🌱 I’m currently learning REDUX
 
 <!--
 **Pars41/Pars41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

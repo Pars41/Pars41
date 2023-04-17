@@ -1,12 +1,12 @@
 ## Hi there, I'm Yusuf! 👋
 ### About Me
 I'm a Junior Frontend Developer with a strong passion for building responsive and user-friendly websites. I have experience in HTML, CSS, Bootstrap, React, JavaScript, Tailwind CSS, Material UI, and TypeScript.
-Current Projects
+### Current Projects
 Here are some of my current projects:
 •	Project 1 - A web app built with React and Material UI
 •	Project 2 - A landing page built with HTML, CSS, and Bootstrap
 •	Project 3 - A blog built with Gatsby and Tailwind CSS
-Skills
+### Skills
 Here are some of my skills:
 Programming Languages
 •	HTML

@@ -1,5 +1,5 @@
-### Hi there, I'm Yusuf! 👋
-## About Me
+## Hi there, I'm Yusuf! 👋
+### About Me
 I'm a Junior Frontend Developer with a strong passion for building responsive and user-friendly websites. I have experience in HTML, CSS, Bootstrap, React, JavaScript, Tailwind CSS, Material UI, and TypeScript.
 Current Projects
 Here are some of my current projects:

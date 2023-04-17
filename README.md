@@ -1,8 +1,5 @@
-### Hi there 👋
-<!-- <img src="https://images.hdqwalls.com/download/relaxing-place-4k-m9-1920x1080.jpg" alt="Alt text" title="Optional title"> -->
-
-Hi there, I'm Yusuf! 👋
-About Me
+### Hi there, I'm Yusuf! 👋
+## About Me
 I'm a Junior Frontend Developer with a strong passion for building responsive and user-friendly websites. I have experience in HTML, CSS, Bootstrap, React, JavaScript, Tailwind CSS, Material UI, and TypeScript.
 Current Projects
 Here are some of my current projects:
